@@ -32,3 +32,7 @@
 
 let usernames = [`ty`, `tyler`, `mersereau`, `tym`, `tylermersereau`];
 let user_ages = [10, 20, 30, 40, 50]
+
+let first_username = usernames[0];
+let last_username = usernames[4];
+let middle_userage = user_ages[2];
